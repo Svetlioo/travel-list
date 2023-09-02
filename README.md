@@ -1,7 +1,7 @@
 
 # Travel list
 
-Welcome to Travel list, your go-to CRUD application for managing your travel checklist. Whether you're jet-setting around the world or planning a weekend getaway, TravelPal simplifies the process of organizing and tracking your travel essentials.
+Welcome to Travel list, your go-to CRUD application for managing your travel checklist. Whether you're jet-setting around the world or planning a weekend getaway, Travel list simplifies the process of organizing and tracking your travel essentials.
 
 
 ## Features
@@ -11,7 +11,7 @@ Welcome to Travel list, your go-to CRUD application for managing your travel che
 - Effortless Packing: Never forget essential items again. Travel list empowers you to pack with confidence and ease.
 - Personalization: Tailor your travel list to your unique needs. Customize item details and descriptions to suit your preferences.
 - Stay Organized: Travel list's intuitive interface helps you stay on top of your packing game, ensuring stress-free journeys.
-- User-Friendly Design: With a user-centered design, TravelPal makes managing your travel list a delightful experience.
+- User-Friendly Design: With a user-centered design, Travel list makes managing your travel list a delightful experience.
 
 ## Technologies Used
 
